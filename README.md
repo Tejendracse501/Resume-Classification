@@ -468,10 +468,21 @@ Additionally:
 
 ---
 
-### Phase 3 Outcome
+### 10. Application Preview
+#### 🔹 Home Page
+![Home Page](images/output1.png)
+
+#### 🔹 Resume Upload & Prediction
+![Prediction Output](images/output2.png)
+
+####🔹 Batch Processing Results
+![Batch Results](images/output3.png)
+
+#### Phase 3 Outcome
 
 - Fully deployed ML application.
 - End-to-end automated resume screening.
 - Consistent preprocessing between training and production.
 - Supports real-world resume formats.
 - Enables scalable, batch resume classification with structured output.
+
